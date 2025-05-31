@@ -1,0 +1,9 @@
+[submodule "cms"]
+	path = cms
+	url = git@github.com:thesneakattack/lflb-exhibits-cms.git
+[submodule "site"]
+	path = site
+	url = git@github.com:thesneakattack/lflb-exhibits-site
+[submodule "exhibits"]
+	path = exhibits
+	url = git@github.com:thesneakattack/lflb-exhibits-sign
