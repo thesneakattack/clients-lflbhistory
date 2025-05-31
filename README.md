@@ -1,3 +1,4 @@
+```
 Pulling in submodules (child repos):
 Initialize (if you haven’t already) and fetch every submodule:
 git submodule update --init --recursive
@@ -9,3 +10,4 @@ Whenever any submodule moves (because you pulled new commits), the parent sees i
 git add cms site exhibits
 git commit -m "Advance submodules to their latest commits"
 git push origin main
+```
